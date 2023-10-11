@@ -1,3 +1,5 @@
+Up coming class we will start setting up our router and network so this artical fit in perfect.
+
 ## Readings: SOHO Networking
 
  ### 1. What makes the Linksys WRT54GL famous?
